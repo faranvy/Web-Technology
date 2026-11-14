@@ -1,12 +1,13 @@
-# Web Technology - Projct Login Web #
+# Web Technology - Project Login Web
 
-- **Nama**: Fara Novri Hasbel Wijaya
-- **NIM**: 3420230017
-- **Semester**: 7
-- **Program Studi**: Teknik Informatika
-- **Dosen Pengampu**: Adhitya Ahmad Pradypta, S.Kom., M.T.I.
+## 📌 Identitas Mahasiswa
+* **Nama:** Fara Novri Hasbel Wijaya
+* **NIM:** 3420230017
+* **Semester:** 7
+* **Program Studi:** Teknik Informatika
+* **Dosen Pengampu:** Adhitya Ahmad Pradypta, S.Kom., M.T.I.
 
 ## Teknologi yang Digunakan
-- Next.js (App Router)
-- Tailwind CSS
-- PostgreSQL (Neon) & NextAuth.js
+* **Framework:** Next.js (App Router)
+* **Styling:** Tailwind CSS
+* **Database & Auth:** PostgreSQL (Neon) & NextAuth.js
