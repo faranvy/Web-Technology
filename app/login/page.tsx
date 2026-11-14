@@ -90,6 +90,15 @@ export default function Page() {
           </div>
         </form>
       </div>
+
+      {/* Footer Watermark */}
+      <footer className="mt-auto pt-6 text-center text-xs text-gray-400">
+        &copy; {new Date().getFullYear()} Diketik oleh{' '}
+        <span className="font-medium text-gray-500">
+          Fara Novri Hasbel Wijaya
+        </span>
+      </footer>
+
     </main>
   );
 }
