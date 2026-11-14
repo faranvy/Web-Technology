@@ -1,5 +1,12 @@
-## Next.js App Router Course - Starter
+# Web Technology - Projct Login Web #
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+- **Nama**: Fara Novri Hasbel Wijaya
+- **NIM**: 3420230017
+- **Semester**: 7
+- **Program Studi**: Teknik Informatika
+- **Dosen Pengampu**: Adhitya Ahmad Pradypta, S.Kom., M.T.I.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Teknologi yang Digunakan
+- Next.js (App Router)
+- Tailwind CSS
+- PostgreSQL (Neon) & NextAuth.js
